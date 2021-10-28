@@ -1,5 +1,5 @@
 +prog sofiload urs:3
 head
 lc 1
-beam sln 1 pa -10 pe -2 type pzz
+beam sln 1 pa -2 pe -2 type pzz
 end
