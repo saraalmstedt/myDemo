@@ -21,4 +21,4 @@ spt 2 x 10 y 0 z 0 fix pp
 sln 1 npa 1 npe 2 sno 1
 end
 
-!#include loads.dat
+#include loads.dat
